@@ -15,7 +15,7 @@ const config = {
       default: true
     },
     paths: {
-      // base: dev ? '' : '/testing-svelte-gh'
+      base: dev ? '' : '/testing-svelte-gh'
     }
   }
 };
